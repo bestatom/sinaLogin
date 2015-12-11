@@ -1,6 +1,6 @@
 # sinaLogin
 
-新浪自动登录脚本，使用python3，登录的是手机微博(weibo.cn)
+新浪微博自动登录脚本，使用python3，登录的是手机微博(weibo.cn)
 
 # 运行情况
 
